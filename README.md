@@ -2,32 +2,53 @@
 
 ## Overview
 
-Welcome to the **CAP 4720: Computer Graphics** repository! This course covers the fundamentals of interactive 3D computer graphics and 3D graphics programming using **OpenGL** and **Python**. We use **ModernGL**, a Python wrapper for OpenGL, to simplify 3D graphics programming in Python.
+Welcome to my **CAP 4720: Computer Graphics** repository! This repository serves as a showcase of my understanding of the core concepts and practical applications of computer graphics, as demonstrated through the projects and assignments I completed during this course. 
 
-The course introduces foundational topics like **Vector Algebra**, **Transformations**, and **Matrix Operations**, which are crucial for 3D graphics. 
+The course provides an introduction to **interactive 3D computer graphics programming** using **OpenGL** and **Python**, with a focus on understanding the math and programming techniques behind rendering, shading, and transformations. The primary tool for development in this course is **ModernGL**, a Python wrapper for OpenGL.
+
+This repository highlights the assignments and projects that helped me develop a strong foundation in computer graphics, including working with 3D models, textures, shading, and advanced rendering techniques.
 
 ---
 
-## Course Topics and Objectives
+## Syllabus Highlights
 
-### Key Topics:
+### Topics Covered:
 - **Math for Computer Graphics**:
   - Vector Algebra and Transformations
-  - Matrix Algebra for Graphics
+  - Matrix Algebra (addition, multiplication, inversion, etc.)
 - **Graphics Programming**:
   - Interactive 3D Programming using ModernGL
-  - 3D Object Rendering
+  - Loading and Rendering 3D Models
 - **Shading and Visibility**:
-  - Shadow Mapping and Shading Models
-  - Depth Buffers
-- **Graphics APIs**:
-  - OpenGL and ModernGL
+  - Shadow Mapping
+  - Depth Buffers and Visibility
+- **Texture Mapping**:
+  - Applying Textures and Normal Maps
+- **Advanced Techniques**:
+  - Real-time Lighting
+  - Scene Rendering with Multiple Objects
+
+### Skills Gained:
+- Developed a strong foundation in **vector and matrix algebra** for 3D transformations.
+- Learned to implement 3D rendering techniques, including **shading**, **shadow mapping**, and **visibility determination**.
+- Gained hands-on experience with **ModernGL** for rendering 3D objects and scenes.
+- Worked with **3D models** and applied textures to create visually compelling graphics.
+- Created interactive scenes with **real-time lighting** and animations.
+- Mastered project organization and programming in **Python** using **Jupyter Notebooks**.
 
 ---
 
-## Repository Structure
+## Libraries and Technologies Used
 
-The repository is organized into the following structure:
+### Libraries:
+- **Pygame**: For creating simple graphical interfaces and window management.
+- **ModernGL**: Python wrapper for OpenGL, enabling advanced 3D rendering techniques.
+- **numpy**: For mathematical computations and handling matrix and vector operations.
+- **glm**: A library for performing mathematical operations specific to graphics.
+
+### Technologies:
+- **Python**: The primary programming language used in this course.
+- **Jupyter Notebook**: For interactive coding, visualizations, and project documentation.
 
 ---
 
