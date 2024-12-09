@@ -4,12 +4,7 @@
 
 Welcome to the **CAP 4720: Computer Graphics** repository! This course covers the fundamentals of interactive 3D computer graphics and 3D graphics programming using **OpenGL** and **Python**. We use **ModernGL**, a Python wrapper for OpenGL, to simplify 3D graphics programming in Python.
 
-The course introduces foundational topics like **Vector Algebra**, **Transformations**, and **Matrix Operations**, which are crucial for 3D graphics. As the course progresses, you will also explore advanced concepts required for real-time 3D rendering.
-
-### Prerequisites
-To succeed in this course, it is expected that you have:
-- Basic knowledge of geometry and algebra.
-- Familiarity with matrix algebra operations, such as addition, multiplication, and inversion. For a refresher, visit [Math Insight](https://mathinsight.org/matrix_introduction).
+The course introduces foundational topics like **Vector Algebra**, **Transformations**, and **Matrix Operations**, which are crucial for 3D graphics. 
 
 ---
 
